@@ -8,7 +8,8 @@ Este equipo se encarga de realizar las actividades propuestas para la materia **
 
 ### 🧑‍💻 Juan Roca
 
-![Juan](https://via.placeholder.com/150)
+
+<img width="94" height="166" alt="tutun" src="https://github.com/user-attachments/assets/1f0537e9-99df-43b1-a45b-dac4a6694e9c" />
 
 * 📚 Rol: Desarrollador
 * 💡 Descripción: Encargado del desarrollo principal del proyecto.
