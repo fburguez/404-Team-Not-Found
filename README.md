@@ -17,7 +17,7 @@ Este equipo se encarga de realizar las actividades propuestas para la materia **
 
 ---
 
-### 🧑‍💻 (Tu nombre)
+### 🧑‍💻 Facundo
 
 ![TuFoto](https://via.placeholder.com/150)
 
