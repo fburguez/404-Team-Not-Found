@@ -20,6 +20,7 @@ Este proyecto tiene como objetivo desarrollar y resolver las actividades propues
 
 <p align="center">
   <b>Facundo Burguez</b><br>
+  <img src="img/Facundo_Burguez.jpg" width="120"><br>
   Enfoque en lógica de programación y desarrollo de funcionalidades.
 </p>
 
